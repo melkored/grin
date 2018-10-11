@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/grin/static/media/DnjN-k8UwAEwGDw.5be857cb.jpg"
   },
   {
-    "revision": "d3ea84c4aa9cef0d9f08377da3ad489b",
-    "url": "/grin/static/media/nuckle_semibold_web.d3ea84c4.ttf"
-  },
-  {
     "revision": "9806e4e1fed59b2e3cc3b9a24713588c",
     "url": "/grin/static/media/nuckle_bold_web.9806e4e1.ttf"
+  },
+  {
+    "revision": "d3ea84c4aa9cef0d9f08377da3ad489b",
+    "url": "/grin/static/media/nuckle_semibold_web.d3ea84c4.ttf"
   },
   {
     "revision": "70294feeebb6ae7b26cc5e6a69b80362",
