@@ -1,12 +1,12 @@
 {
-  "main.css": "/grin/static/css/main.c2ee4a48.chunk.css",
-  "main.js": "/grin/static/js/main.6aff6151.chunk.js",
-  "main.js.map": "/grin/static/js/main.6aff6151.chunk.js.map",
+  "main.css": "/grin/static/css/main.6d8047a2.chunk.css",
+  "main.js": "/grin/static/js/main.932fd7d2.chunk.js",
+  "main.js.map": "/grin/static/js/main.932fd7d2.chunk.js.map",
   "static/js/1.54971fc7.chunk.js": "/grin/static/js/1.54971fc7.chunk.js",
   "static/js/1.54971fc7.chunk.js.map": "/grin/static/js/1.54971fc7.chunk.js.map",
   "runtime~main.js": "/grin/static/js/runtime~main.27bc56d1.js",
   "runtime~main.js.map": "/grin/static/js/runtime~main.27bc56d1.js.map",
-  "static/media/App.css": "/grin/static/media/nuckle_semibold_web.d3ea84c4.ttf",
+  "static/media/App.css": "/grin/static/media/nuckle_bold_web.9806e4e1.ttf",
   "static/media/tw-icon.png": "/grin/static/media/tw-icon.1798859a.png",
   "static/media/01.png": "/grin/static/media/01.300f5fc6.png",
   "static/media/02.png": "/grin/static/media/02.49b9231f.png",
@@ -17,8 +17,8 @@
   "static/media/grin-3.jpg": "/grin/static/media/grin-3.5be857cb.jpg",
   "static/media/somos_grin.jpg": "/grin/static/media/somos_grin.23b2a55e.jpg",
   "static/media/in-icon.jpg": "/grin/static/media/in-icon.04114f5c.jpg",
-  "static/css/main.c2ee4a48.chunk.css.map": "/grin/static/css/main.c2ee4a48.chunk.css.map",
+  "static/css/main.6d8047a2.chunk.css.map": "/grin/static/css/main.6d8047a2.chunk.css.map",
   "index.html": "/grin/index.html",
-  "precache-manifest.a57ee5fb0423f7334ae262f7ee37a1ba.js": "/grin/precache-manifest.a57ee5fb0423f7334ae262f7ee37a1ba.js",
+  "precache-manifest.8b4604b06602adcee19e5574146dc133.js": "/grin/precache-manifest.8b4604b06602adcee19e5574146dc133.js",
   "service-worker.js": "/grin/service-worker.js"
 }

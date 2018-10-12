@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/grin/static/media/made-in-mexico.8aee9cd8.jpg"
   },
   {
-    "revision": "6aff61514035a24f8978",
-    "url": "/grin/static/css/main.c2ee4a48.chunk.css"
+    "revision": "932fd7d2cf33d7cc592d",
+    "url": "/grin/static/css/main.6d8047a2.chunk.css"
   },
   {
     "revision": "54971fc750bd67fb94e0",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/grin/static/media/03.420da8c3.png"
   },
   {
-    "revision": "6aff61514035a24f8978",
-    "url": "/grin/static/js/main.6aff6151.chunk.js"
+    "revision": "932fd7d2cf33d7cc592d",
+    "url": "/grin/static/js/main.932fd7d2.chunk.js"
   },
   {
     "revision": "b01e08af885f23d181ad6728483ea591",
@@ -56,19 +56,19 @@ self.__precacheManifest = [
     "url": "/grin/static/media/somos_grin.23b2a55e.jpg"
   },
   {
-    "revision": "9806e4e1fed59b2e3cc3b9a24713588c",
-    "url": "/grin/static/media/nuckle_bold_web.9806e4e1.ttf"
-  },
-  {
     "revision": "d3ea84c4aa9cef0d9f08377da3ad489b",
     "url": "/grin/static/media/nuckle_semibold_web.d3ea84c4.ttf"
+  },
+  {
+    "revision": "9806e4e1fed59b2e3cc3b9a24713588c",
+    "url": "/grin/static/media/nuckle_bold_web.9806e4e1.ttf"
   },
   {
     "revision": "70294feeebb6ae7b26cc5e6a69b80362",
     "url": "/grin/static/media/nuckle_book_web.70294fee.ttf"
   },
   {
-    "revision": "77c408f4714d68386c74eed81566e584",
+    "revision": "bc7e0754e700beeca29acdf6e6d7aa43",
     "url": "/grin/index.html"
   }
 ];
