@@ -1,0 +1,33 @@
+.footer{
+    background-color: #f7f7f7;
+}
+
+a.social-text{
+    text-decoration: none;
+    color: black;
+}
+
+.social-text{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.social a{
+    cursor: pointer;
+}
+
+.social img{
+    height: 20px;
+    margin: 0 10px;
+}
+
+.social, .social-text{
+    margin: 15px 0;
+}
+
+@media only screen and (min-width: 769px) {
+    .footer > div, .social-text, .social{
+        display: inline-block;
+        margin: 15px 20px;
+    }
+}

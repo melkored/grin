@@ -1,0 +1,94 @@
+.works .works-text{
+    text-align: left;
+    width: 90%;
+    margin: 5%;
+}
+
+.works-content-div > div{
+    width: 94%;
+    margin: 3%;
+    text-align: left;
+}
+
+.description-image-container img{
+    width: 100%;
+}
+
+.works-content-div > div > .description-image-container, .works-content-div > div > .works-description{
+    width: 45%;
+}
+
+.works-content-div > div > .works-description{
+    margin-left: 10px;
+}
+
+.works-content-div .inner-title{
+    font-size: 22px;
+    color: black;
+    font-weight: 600;
+}
+
+.works-content-div .inner-text{
+    font-size: 15px;
+    color: black;
+    font-weight: 400;
+    line-height: 1.7;
+}
+
+.description-container{
+    display: flex;
+    margin: 10px 10px !important;
+}
+
+@media only screen and (min-width: 1200px) {
+    .works .works-text{
+        text-align: left;
+        width: 50%;
+        margin: 5% 3% 5% 15%;
+    }
+    .works .works-content-div{
+        width: 80%;
+        margin: 5% 15% 5% 0;
+    }
+    .description-container{
+        flex-direction: column;
+        margin: 10px 30px !important;
+    }
+
+    .works-content-div > div > .description-image-container, .works-content-div > div > .works-description{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px){
+    .works .works-text{
+        width: 50% !important;
+        margin: 5% 0 5% 10% !important;
+    }
+    .works .works-content-div{
+        width: 80% !important;
+        margin: 5% 10% 5% 0 !important;
+    }
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    .works .works-text{
+        width: 50% !important;
+        margin: 5% 0 5% 3% !important;
+    }
+    .works .works-content-div{
+        width: 80% !important;
+        margin: 5% 3% 5% 0 !important;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .description-container{
+        flex-direction: column;
+        min-width: 145px;
+    }
+
+    .works-content-div > div > .description-image-container, .works-content-div > div > .works-description{
+        width: 100%;
+    }
+}

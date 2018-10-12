@@ -1,0 +1,128 @@
+.navbar-logo{
+    fill: white;
+    height: 45px;
+    margin: 0 20px -15px;
+    padding: 0;
+}
+
+.topnav {
+    overflow: hidden;
+    background: #00da6b;
+    display: inline-block;
+    list-style-type: none;
+    padding: 0 !important;
+    text-align: right;
+}
+
+.topnav .item:first-child{
+    padding: 5px !important;
+    margin: 20px 0 0;
+}
+
+.topnav .item {
+    /* float: left; */
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    margin: -10px 0 0;
+
+}
+
+.topnav .item:hover {
+    color: black;
+}
+
+.charger{
+    border: 1px solid white;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+.topnav a{
+    text-decoration: none;
+    color: white;
+}
+
+.topnav .item{
+    cursor: pointer;
+}
+
+@media screen and (min-width: 993px) {
+    .topnav{
+        margin: 0 !important;
+        width: 100% !important;
+    }
+    .navbar-image{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .topnav .item:not(:first-child) {display: none;}
+    .topnav .item:first-child {
+        float: left;
+        display: block;
+        margin-bottom: 20px;
+    }
+    .topnav .item.icon {
+        float: right;
+        display: block;
+    }
+    .charger{
+        text-align: center!important;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .topnav.responsive {
+        position: relative;
+        right: 0;
+        top: 0;
+        height: 800px;
+
+    }
+
+    .topnav .icon {
+        position: absolute;
+        right: 20px;
+        top: 20px;
+    }
+
+    .topnav.responsive .icon {
+        position: absolute;
+    }
+    .topnav.responsive .item {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+}
+
+.ham{
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+}
+
+.navbar-image{
+    text-align: center;
+    margin-top: 350px;
+}
+
+.navbar-image img{
+    height: 30px;
+    margin: 0 10px;
+}
+
+.not-showing{
+    display: none;
+}

@@ -1,0 +1,1 @@
+export const grinLandscapeUrl = "https://scontent.fmex6-1.fna.fbcdn.net/v/t1.0-9/39213630_472431943225594_1595793071604236288_o.png?_nc_cat=107&_nc_eui2=AeFdkG6vpTk_Fj8LqI9aQwnpQaMVaZYyJGOydwwptLjShf1xKYeLXrPvdWbY9T1s_CQlFwsauKEqinalVRZ8JGNep5Tsur6NoLpbwjKIakJmbA&oh=a54e8878ed959bd224524912acbafa1e&oe=5C5D222C"
