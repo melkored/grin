@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/grin/static/media/made-in-mexico.8aee9cd8.jpg"
   },
   {
-    "revision": "1bc3841e05aab00745e8",
-    "url": "/grin/static/css/main.fada059d.chunk.css"
+    "revision": "6aff61514035a24f8978",
+    "url": "/grin/static/css/main.c2ee4a48.chunk.css"
   },
   {
     "revision": "54971fc750bd67fb94e0",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/grin/static/media/03.420da8c3.png"
   },
   {
-    "revision": "1bc3841e05aab00745e8",
-    "url": "/grin/static/js/main.1bc3841e.chunk.js"
+    "revision": "6aff61514035a24f8978",
+    "url": "/grin/static/js/main.6aff6151.chunk.js"
   },
   {
     "revision": "b01e08af885f23d181ad6728483ea591",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/grin/static/media/nuckle_book_web.70294fee.ttf"
   },
   {
-    "revision": "6b3c086f634d7b9960ac53d2510b1564",
+    "revision": "77c408f4714d68386c74eed81566e584",
     "url": "/grin/index.html"
   }
 ];
