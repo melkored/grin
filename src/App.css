@@ -84,19 +84,22 @@ body{
     margin: 10px 10px 10px 0;
 }
 
+.download-app-text{
+    color: black;
+}
+
 @media only screen and (min-width: 1200px) {
     .header .header-text{
-        width: 35%;
-        margin: 8% 0 5% 15%;
+        width: 35% !important;
+        margin: 8% 0 5% 15% !important;
     }
 
     .header .header-image{
-        width: 55%;
-        margin: 2% 15% 0 0;
+        width: 55% !important;
+        margin: 2% 15% 0 0 !important;
     }
 
     .download-app-text{
-        color: black;
         font-size: 19px;
         font-weight: 200;
         margin: 0 0 50px;
@@ -116,6 +119,12 @@ body{
     .header .header-image{
         width: 55% !important;
         margin: 2% 10% 0 0 !important;
+    }
+
+    .download-app-text{
+        font-size: 19px;
+        font-weight: 200;
+        margin: 0 0 50px;
     }
 }
 
@@ -589,10 +598,15 @@ a.social-text{
         height: 800px;
 
     }
+
+    .topnav .icon {
+        position: absolute;
+        right: 20px;
+        top: 20px;
+    }
+
     .topnav.responsive .icon {
         position: absolute;
-        right: 0;
-        top: 0;
     }
     .topnav.responsive .item {
         float: none;
