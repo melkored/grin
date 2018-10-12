@@ -51,24 +51,24 @@ class Navbar extends Component{
                         </svg>
                     </a>
                 </div>
-                <div className={"item"}>
+                <div className={"item item1"}>
                     <a href="/">
                         Zonas Grin
                     </a>
                 </div>
-                <div className={"item"}>
+                <div className={"item item2"}>
                     <a href="/">Seguridad</a>
                 </div>
-                <div className={"item"}>
-                    <a href="/">Carreras</a>
-                </div>
-                <div className={"item"}>
-                    <a href="/">Descarga la App</a>
-                </div>
-                <div className={"charger item"}>
+                <div className={"charger item item3"}>
                     <a href="/">Convertirme en Cargador</a>
                 </div>
-                <div className={"item"}>
+                <div className={"item item4"}>
+                    <a href="/">Carreras</a>
+                </div>
+                <div className={"item item5"}>
+                    <a href="/">Descarga la App</a>
+                </div>
+                <div className={"item item6"}>
                     <div className={"navbar-image"}>
                         <a href="https://web.facebook.com/grinscooters/?_rdc=1&_rdr" target={"_blank"}>
                             <img src={fbIcon} alt=""/>

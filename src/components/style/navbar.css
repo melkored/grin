@@ -83,10 +83,12 @@
 
 @media screen and (max-width: 992px) {
     .topnav.responsive {
+        display: flex;
         position: relative;
         right: 0;
         top: 0;
         height: 800px;
+        flex-direction: column;
 
     }
 
@@ -104,6 +106,25 @@
         display: block;
         text-align: left;
     }
+    .item1{
+        order:1
+    }
+    .item2{
+        order:2
+    }
+    .item3{
+        order:5
+    }
+    .item4{
+        order:3
+    }
+    .item5{
+        order:4
+    }
+    .item6{
+        order:6
+    }
+
 }
 
 .ham{
