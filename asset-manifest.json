@@ -1,7 +1,7 @@
 {
-  "main.css": "/grin/static/css/main.6d8047a2.chunk.css",
-  "main.js": "/grin/static/js/main.932fd7d2.chunk.js",
-  "main.js.map": "/grin/static/js/main.932fd7d2.chunk.js.map",
+  "main.css": "/grin/static/css/main.f35992d1.chunk.css",
+  "main.js": "/grin/static/js/main.86ba36e8.chunk.js",
+  "main.js.map": "/grin/static/js/main.86ba36e8.chunk.js.map",
   "static/js/1.54971fc7.chunk.js": "/grin/static/js/1.54971fc7.chunk.js",
   "static/js/1.54971fc7.chunk.js.map": "/grin/static/js/1.54971fc7.chunk.js.map",
   "runtime~main.js": "/grin/static/js/runtime~main.27bc56d1.js",
@@ -17,8 +17,8 @@
   "static/media/grin-3.jpg": "/grin/static/media/grin-3.5be857cb.jpg",
   "static/media/somos_grin.jpg": "/grin/static/media/somos_grin.23b2a55e.jpg",
   "static/media/in-icon.jpg": "/grin/static/media/in-icon.04114f5c.jpg",
-  "static/css/main.6d8047a2.chunk.css.map": "/grin/static/css/main.6d8047a2.chunk.css.map",
+  "static/css/main.f35992d1.chunk.css.map": "/grin/static/css/main.f35992d1.chunk.css.map",
   "index.html": "/grin/index.html",
-  "precache-manifest.8b4604b06602adcee19e5574146dc133.js": "/grin/precache-manifest.8b4604b06602adcee19e5574146dc133.js",
+  "precache-manifest.2f80d5c10279266eeec21be9d2bf284e.js": "/grin/precache-manifest.2f80d5c10279266eeec21be9d2bf284e.js",
   "service-worker.js": "/grin/service-worker.js"
 }
