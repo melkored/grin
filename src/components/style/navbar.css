@@ -64,7 +64,9 @@
         display: none;
     }
     .topnav .item{
-        margin: 0 20px !important;
+        margin: 0 16px !important;
+        font-size: 18px;
+        font-weight: 200;
     }
 }
 
